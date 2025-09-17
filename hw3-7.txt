@@ -1,0 +1,24 @@
+****HW 3******
+//rectangle width is completly irrelvant
+//all favourites are unnescary for a bank cust
+//using string for all data Date data type would be mote convient for date of birth var
+//2 missing id , account number 
+
+****HW 4*****
+common:lines outline color fill color 
+all will have area but will differ in each shape 
+circle nneds a radius, each of rect and tri have diffrent number of side 
+
+
+****HW 5*****
+all acts the same but with diff data types
+one queue and use template queue<data type>
+
+***hw 6*****
+abstraction is good as the results contains highlight of all and click on each result to git the full thing
+
+*****hw 7 ****
+t1) using the formula n(n+1)/2 or looping 
+t2) IDK?
+functtionlaity will work the same , but storing images and retriving will differ from os to another
+so split common and work speratly only on diffrances
